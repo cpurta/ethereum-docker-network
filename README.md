@@ -56,7 +56,7 @@ $ docker-compose up --scale eth=N
 What is the point of having a private network without being able to deploy you own
 smart contracts to it and test them out?
 
-### Pre-requisites
+### Prerequisites
 
 It is highly recommended that you have `truffle` installed to make deployment and
 interacting with your contracts easier. If you do not have `truffle` you can install
